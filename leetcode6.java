@@ -8,8 +8,7 @@ class leetcode6
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter a String : ");
-        String str1 = sc.next();
-
+        String str1 = sc.next()
         System.out.println("Enter number of rows : ");
         int rows = sc.nextInt();
 
