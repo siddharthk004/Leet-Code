@@ -3,8 +3,6 @@ import java.util.Arrays;
 
 class leetcode6
 {
-
-    
     public static void main(String arg[])
     {
         Scanner sc = new Scanner(System.in);
