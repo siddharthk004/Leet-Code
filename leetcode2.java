@@ -6,7 +6,7 @@ class leetcode2
     public static void main(String arg[])
     {
         Scanner sc = new Scanner(System.in);
-
+    
         LinkedList<Integer> linkedlist1 = new LinkedList<>();
         LinkedList<Integer> linkedlist2 = new LinkedList<>();
 
