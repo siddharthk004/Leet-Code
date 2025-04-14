@@ -13,6 +13,7 @@ class leetcode6
         int rows = sc.nextInt();
 
         char[] arrs = str1.toCharArray();
+
         char[] arrs1 = new char[10];
 
         int b = 0;
